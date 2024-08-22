@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **Manish.goud0751@gmail.com**
 
-- 📄 Know about my experiences [Manish Goud LinkedIn](https://www.linkedin.com/in/manish-goud-091250251/)
+- 📄 Know about My experiences [Manish Goud LinkedIn](https://www.linkedin.com/in/manish-goud-091250251/
+  
+- 📄 Know about My Resume [Manish Goud Resume](https://manishgouddev.netlify.app/static/media/ManishgoudCV.e8dfe981d96bf5896e95.pdf)
 
 - ⚡ Fun fact **I thing I am Funny**
 
