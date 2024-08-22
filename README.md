@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Manish.goud0751@gmail.com**
 
-- 📄 Know about my experiences [Manish Goud Linkdin](https://www.linkedin.com/in/manish-goud-091250251/)
+- 📄 Know about my experiences [Manish Goud LinkedIn](https://www.linkedin.com/in/manish-goud-091250251/)
 
 - ⚡ Fun fact **I thing I am Funny**
 
