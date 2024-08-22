@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [School Management System](https://www.stpaulsgwalior.com)
 
-- 👨‍🏭 I Completed Projects 1 - [Birla Opem Mind](https://www.birlaopenmindsgwalior.com/)
+- 👨‍🏭 I Completed Projects 1 - [Birla Opem Minds](https://www.birlaopenmindsgwalior.com/)
 
-- 👨‍💻 My Portfolio - https://manishgouddev.netlify.app/
+- 👨‍💻 My Portfolio - [Manish.dev](https://manishgouddev.netlify.app/)
 
 - 📫 How to reach me **Manish.goud0751@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manish-goud-091250251/](https://www.linkedin.com/in/manish-goud-091250251/)
+- 📄 Know about my experiences [Linkdin](https://www.linkedin.com/in/manish-goud-091250251/)
 
 - ⚡ Fun fact **I thing I am Funny**
 
