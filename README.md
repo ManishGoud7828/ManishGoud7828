@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [School Management System](https://www.stpaulsgwalior.com)
 
-- 👨‍🏭 I Completed Projects 1 - https://www.birlaopenmindsgwalior.com/
+- 👨‍🏭 I Completed Projects 1 - [Birla Opem Mind](https://www.birlaopenmindsgwalior.com/)
 
 - 👨‍💻 My Portfolio - https://manishgouddev.netlify.app/
 
