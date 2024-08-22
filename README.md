@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [School Management System](https://www.stpaulsgwalior.com)
 
-- 👨‍🏭 I Completed Projects 1 [Online Juice Shop](https://www.letsjuicebahamas.com)
+- 👨‍🏭 I Completed Projects 1 - [https://www.birlaopenmindsgwalior.com/]
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manish-goud-091250251/](https://www.linkedin.com/in/manish-goud-091250251/)
+- 👨‍💻 My Portfolio - [https://manishgouddev.netlify.app/]
 
 - 📫 How to reach me **Manish.goud0751@gmail.com**
 
